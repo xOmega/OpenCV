@@ -1,1 +1,0 @@
-This repository stores all simple OpenCV experiments.
